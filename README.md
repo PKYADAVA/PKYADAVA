@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m PRABHAT KUMAT YADAVA
-- 👀 I’m interested in DATA SCENCE
-- 🌱 I’m currently learning PYTHON 
+- 👀 I’m interested in DATA SCENCE,FRONT-END DEVELOPMENT
+- 🌱 I’m currently learning PYTHON ,JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
