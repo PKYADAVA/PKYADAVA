@@ -10,12 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 <h1 align="center">Hi 👋, I'm Prabhat Yadava</h1>
-<h3 align="center">Data Science enthusiast</h3>
+<h3 align="center">Python Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PKYADAVA&label=Profile%20views&color=0e75b6&style=flat" alt="PKYADAVA" /> </p>
 
  🔭 I’m currently working on **my problem solving skill**
-
- 🌱 I’m currently learning **Python**
 
  👨‍💻 All of my projects are available at [https://github.com/PKYADAVA](https://github.com/PKYADAVA)
 
